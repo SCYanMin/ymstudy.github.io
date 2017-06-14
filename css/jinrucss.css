@@ -1,0 +1,22 @@
+/* CSS Document */
+.jinru{background-image:url(../images/bg-main.jpg); margin:0 ;auto; no-repeat;center center fixed; 
+  filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod='scale')";
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+ -moz-background-size:100% 100%;
+	background-size:100% 100%;}
+ 
+.chenggong{ margin-left:200;
+border-bottom-color:#FF0000;
+border-left-color:#FF0000;
+border-right-color:#FF0000;
+border-top-color:#FF0000;
+border-left-width:medium;
+border-right-width:medium;
+border-top-width:medium;
+border-bottom-width:medium;
+border-bottom-style:groove;
+border-right-color:#FF0000; 
+
+ }
+.footerr{ background:#4A664E top left repeat-x;}
